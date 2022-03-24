@@ -1,3 +1,1 @@
-"# testDeploy" 
-"# testDeploy" 
-"# testDeploy" 
+"# vuex-launchx" 
