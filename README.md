@@ -1,1 +1,2 @@
 "# vuex-launchx" 
+"# vuex-deploy" 
